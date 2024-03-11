@@ -6,7 +6,7 @@
 
 ## 原理
 
-将数据投影到直线$$\omega$$上，则两类样本的中心在直线上的投影分别为$\omega^T\mu_0$和$\omega^T\mu_1$；若将所有样本点都投影到直线上，则两类样本的协方差分别为$\omega^T \Sigma_0 \omega$和$\omega^T \Sigma_1 \omega$.
+将数据投影到直线$\omega$上，则两类样本的中心在直线上的投影分别为$\omega^T\mu_0$和$\omega^T\mu_1$；若将所有样本点都投影到直线上，则两类样本的协方差分别为$\omega^T \Sigma_0 \omega$和$\omega^T \Sigma_1 \omega$.
 
 要想使同类样例的投影尽可能接近，须让同类样例投影点的协方差尽可能小，即$\omega^T \Sigma_0 \omega+\omega^T \Sigma_1 \omega$尽可能小
 
@@ -47,7 +47,6 @@ $$
 $$
 \omega=S^{-1}_\omega(\mu_0-\mu_1)
 $$
-
 
 
 
