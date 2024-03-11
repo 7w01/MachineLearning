@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dbc284b-bb97-4831-a8bb-b8206a387f57" name="Changes" comment="">
+    <list default="true" id="1dbc284b-bb97-4831-a8bb-b8206a387f57" name="Changes" comment="change LDA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -54,6 +57,28 @@
       <option name="presentableId" value="Default" />
       <updated>1710151790447</updated>
     </task>
+    <task id="LOCAL-00001" summary="LDA">
+      <option name="closed" value="true" />
+      <created>1710167657403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710167657403</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change LDA">
+      <option name="closed" value="true" />
+      <created>1710168224688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710168224688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="LDA" />
+    <MESSAGE value="change LDA" />
+    <option name="LAST_COMMIT_MESSAGE" value="change LDA" />
   </component>
 </project>
