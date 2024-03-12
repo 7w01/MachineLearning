@@ -7,6 +7,7 @@ data_raw = datasets.load_iris()
 data = data_raw['data']
 label = data_raw['target']
 
+# 预留测试集
 data_train, data_test, label_train, label_test = train_test_split(data, label)
 
 class KNN:
