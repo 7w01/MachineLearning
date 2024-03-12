@@ -1,12 +1,6 @@
 import numpy as np
 
-ws = np.array([1, 2, 3])
+ws = np.array([[1,2,3],[4,5,6],[7,8,9]])
 
-
-def func(arr):
-    arr = np.array([[1, 2, 3], [4, 5, 6]])
-    print(arr)
-
-
-func(ws)
+ws = np.mean(ws, axis=1)
 print(ws)
