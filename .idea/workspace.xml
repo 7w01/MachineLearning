@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dbc284b-bb97-4831-a8bb-b8206a387f57" name="Changes" comment="KNN">
+    <list default="true" id="1dbc284b-bb97-4831-a8bb-b8206a387f57" name="Changes" comment="Clustering">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k_means.py" beforeDir="false" afterPath="$PROJECT_DIR$/K_means.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Logistic_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi-linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Multi-linear_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perception.py" beforeDir="false" afterPath="$PROJECT_DIR$/Perception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clustering.md" beforeDir="false" afterPath="$PROJECT_DIR$/Clustering.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710280238798</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Clustering">
+      <option name="closed" value="true" />
+      <created>1710282596068</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710282596068</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +141,7 @@
     <MESSAGE value="decision tree" />
     <MESSAGE value="multi-layer perception(continue...)" />
     <MESSAGE value="KNN" />
-    <option name="LAST_COMMIT_MESSAGE" value="KNN" />
+    <MESSAGE value="Clustering" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clustering" />
   </component>
 </project>
