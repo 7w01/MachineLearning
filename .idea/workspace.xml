@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dbc284b-bb97-4831-a8bb-b8206a387f57" name="Changes" comment="LR">
+    <list default="true" id="1dbc284b-bb97-4831-a8bb-b8206a387f57" name="Changes" comment="Logistic_regression_new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Perception.py" beforeDir="false" afterPath="$PROJECT_DIR$/Perceptron.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
   "keyToString": {
     "Python.KNN.executor": "Run",
     "Python.Logistic_regression_n.executor": "Run",
+    "Python.Naive_bayes.executor": "Run",
     "Python.k_means.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
@@ -157,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710824170235</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Logistic_regression_new">
+      <option name="closed" value="true" />
+      <created>1710849152803</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710849152803</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +180,7 @@
     <MESSAGE value="Ensemble learning" />
     <MESSAGE value="md" />
     <MESSAGE value="LR" />
-    <option name="LAST_COMMIT_MESSAGE" value="LR" />
+    <MESSAGE value="Logistic_regression_new" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logistic_regression_new" />
   </component>
 </project>

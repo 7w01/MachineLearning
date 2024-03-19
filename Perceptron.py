@@ -1,12 +1,12 @@
 import numpy as np
 
 
-class Multilayer_Perception:
+class Multilayer_Perceptron:
     def _init_(self, data, label, layer, normalize_data = False, max_iterations = 1000, alpha = 0.1):
        self.data = data
        self.label = label
        self.layer = layer
-       self.theta = Multilayer_Perception.theta_init(layer)
+       self.theta = Multilayer_Perceptron.theta_init(layer)
        self.max_iterations = 1000
        self.alpha = 0.1
 
