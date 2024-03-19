@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dbc284b-bb97-4831-a8bb-b8206a387f57" name="Changes" comment="Clustering">
+    <list default="true" id="1dbc284b-bb97-4831-a8bb-b8206a387f57" name="Changes" comment="Ensemble learning">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clustering.md" beforeDir="false" afterPath="$PROJECT_DIR$/Clustering.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710282596068</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ensemble learning">
+      <option name="closed" value="true" />
+      <created>1710290213200</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710290213200</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +149,7 @@
     <MESSAGE value="multi-layer perception(continue...)" />
     <MESSAGE value="KNN" />
     <MESSAGE value="Clustering" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clustering" />
+    <MESSAGE value="Ensemble learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ensemble learning" />
   </component>
 </project>
